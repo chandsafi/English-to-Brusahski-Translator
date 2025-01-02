@@ -1,4 +1,4 @@
-# English-to-Brusahski-Translator
+# English-to-Brushaski-Translator
 
 
 The English-to-Burushaski Translator is a machine translation project designed to facilitate communication and understanding by translating English text into the Burushaski language. This project aims to bridge the gap between English speakers and the Burushaski-speaking community through AI-driven solutions.
